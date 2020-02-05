@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="1dd90ed4-d83d-463a-91bf-aa94fe0e0ad3" configVersion="6f6cf00868355f4eb36c69ec392005ba00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="2b9e033e-0bbb-4d68-92a0-ab251e326af9" configVersion="2f66bc4865934d41803b10934584e50c00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="2b9e033e-0bbb-4d68-92a0-ab251e326af9.0" configVersion="cfd17b551047b640b28024524261d26d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="1dd90ed4-d83d-463a-91bf-aa94fe0e0ad3" configVersion="906bac28e0a7a842a809e7128614413400000000"/>
 		<Metadata name="Language.Русский" id="e925f976-c153-4002-81c3-27dec0f1b581" configVersion="b88a72d6db5e054083972e2d7edfb3c900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
