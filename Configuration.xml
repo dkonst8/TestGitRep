@@ -171,6 +171,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>ОбщийМодуль2</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
